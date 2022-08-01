@@ -4,7 +4,7 @@ data/obj/124-with-mask.jpg
 data/obj/133-with-mask.jpg
 data/obj/14-with-mask.jpg
 data/obj/151-with-mask.jpg
-data/obj/159.jpg
+data/obj/159.jpg 
 data/obj/170-with-mask.jpg
 data/obj/180-with-mask.jpg
 data/obj/192-with-mask.jpg
