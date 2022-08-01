@@ -1,7 +1,7 @@
 data/obj/0-with-mask.jpg
 data/obj/0.jpg
 data/obj/1-with-mask.jpg
-data/obj/10-with-mask.jpg
+data/obj/10-with-mask.jpg 
 data/obj/100-with-mask.jpg
 data/obj/101-with-mask.jpg
 data/obj/103-with-mask.jpg
