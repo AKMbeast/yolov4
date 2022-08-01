@@ -13,7 +13,7 @@ percentage_test = 10;
 # Create and/or truncate train.txt and test.txt
 file_train = open('data/train.txt', 'w')
 file_test = open('data/test.txt', 'w')
-
+ 
 # Populate train.txt and test.txt
 counter = 1
 index_test = round(100 / percentage_test)
